@@ -57,7 +57,7 @@
             </p>
         </div>
         <div class="footer"><br/>
-            https://github.com/jihob28th/L2-3_Aguilar_Carl<br/><br/>
+            https://github.com/jihob28th/CulminatingLE_Aguilar_Carl<br/><br/>
             <div class="ringSec">
                 <div class="ringSec1">
                     <div class="ring1"></div>
