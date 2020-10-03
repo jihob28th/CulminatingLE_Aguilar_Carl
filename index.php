@@ -20,10 +20,10 @@
         </div>
         <div class="navigation">
             <ul>
-                <li> <a href="index.html">Home</a></li>
-                <li> <a href="index.html">Job List</a></li>
-                <li> <a href="index.html">About Us</a></li>
-                <li> <a href="index.html">Contact Us</a></li>
+                <li> <a href="index.php">Home</a></li>
+                <li> <a href="index.php">Job List</a></li>
+                <li> <a href="index.php">About Us</a></li>
+                <li> <a href="index.php">Contact Us</a></li>
             </ul>
         </div>
         <div class="banner"><br/>
