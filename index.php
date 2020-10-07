@@ -18,14 +18,6 @@
             <div id="kotak2"></div>
             <div id="kotak3"></div>
         </div>
-        <div class="navigation">
-            <ul>
-                <li> <a href="index.php">Home</a></li>
-                <li> <a href="index.php">Job List</a></li>
-                <li> <a href="index.php">About Us</a></li>
-                <li> <a href="index.php">Contact Us</a></li>
-            </ul>
-        </div>
         <div class="banner"><br/>
             <div class="stamp verify1">
                 <p class="stamped">Verified</p>
